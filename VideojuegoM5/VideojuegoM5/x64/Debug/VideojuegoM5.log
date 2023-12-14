@@ -1,0 +1,4 @@
+﻿  VideojuegoM5.cpp
+D:\M5\VISUAL STUDIO\VideojuegoM5\VideojuegoM5\VideojuegoM5.cpp(11,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\M5\VISUAL STUDIO\VideojuegoM5\VideojuegoM5\VideojuegoM5.cpp(237,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  VideojuegoM5.vcxproj -> D:\M5\VISUAL STUDIO\VideojuegoM5\x64\Debug\VideojuegoM5.exe
