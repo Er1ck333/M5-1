@@ -1,0 +1,4 @@
+﻿  BlackJack.cpp
+F:\copia de D\M5\VISUAL STUDIO\Black Jack\BlackJack\BlackJack\BlackJack.cpp(53,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+F:\copia de D\M5\VISUAL STUDIO\Black Jack\BlackJack\BlackJack\BlackJack.cpp(55,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> F:\copia de D\M5\VISUAL STUDIO\Black Jack\BlackJack\x64\Debug\BlackJack.exe
