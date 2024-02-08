@@ -1,3 +1,0 @@
-﻿  HelloWorldC.cpp
-D:\M5\VISUAL STUDIO\HelloWorldC\HelloWorldC\HelloWorldC.cpp(46,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  HelloWorldC.vcxproj -> D:\M5\VISUAL STUDIO\HelloWorldC\x64\Debug\HelloWorldC.exe
