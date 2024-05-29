@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\copia de D\M5\VISUAL STUDIO\Funciones estaticas\Practica Final M5\Practica Final M5\Main.cpp(336,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Practica Final M5.vcxproj -> D:\copia de D\M5\VISUAL STUDIO\Funciones estaticas\Practica Final M5\x64\Debug\Practica Final M5.exe
